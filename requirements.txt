@@ -1,5 +1,5 @@
 streamlit
 requests
-datetime import date
-openai import OpenAI
-PIL import Image
+datetime
+openai
+PIL
